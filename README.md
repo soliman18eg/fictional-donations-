@@ -1,4 +1,4 @@
- text only fictional donations website
+ # text only fictional donations website
  Show homepage and initialize app data
  Handle user input
  Confirm that if a user chooses any of the options, that the program responds according to your logic.
